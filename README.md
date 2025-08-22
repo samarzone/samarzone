@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @samarzone
-- 👀 I’m interested in logical thinking
-- 🌱 I’m currently learning huaman behaviour
+- 👀 Interested in logical thinking
+- 🌱 Learning huaman intelligence
 
 <!---
 samarzone/samarzone is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
